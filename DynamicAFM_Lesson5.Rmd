@@ -1,0 +1,168 @@
+---
+title: "Dynamic AFM"
+author: "S Santos"
+date: "Monday, September 15, 2014, Masdar"
+output: ioslides_presentation
+---
+
+<!-- regular html comment --> 
+
+# Lesson 5: 
+
+
+
+## Contents
+
+<font size="14">
+
+### **The transfer function of the free cantilever**
+
+</font>
+
+- The distortion of the resonant frequency curve 
+
+<font size="14">
+
+### **Linear and Non Linear response**
+
+</font>
+
+- What is the resonant frequency?
+
+<font size="14">
+
+
+
+### **The transfer fucntion of the interacting cantilever** 
+
+
+
+
+### **The attractive to repulsive transitions**
+
+</font>
+
+
+## The equation of motion
+
+
+ <img src="EquationMotion.jpg" alt="Image 1" height="80" width="600">
+
+
+
+## The transfer function (Linear system)
+
+
+ <img src="Fig1.jpg" alt="Image 1" height="400" width="600"> 
+ 
+ 
+Ref: Reifenberger, R. & Raman, A. Fundamentals of Atomic Force Microscopy: Part 2: Dynamic AFM Methods (Fall 2012). https://nanohub.org/resources/9598 (2012).
+
+## The non-linear system
+
+- The resonant frequency and distortion
+
+<img src="Figure2.jpg" alt="Image 1" height="400" width="600"> 
+
+
+## The transfer function of the interacting system
+
+- What affects the amplitude decay?
+
+- Question: In the linear system?
+
+- Question: In the non-linear system?
+
+
+## Conservative and issipative forces
+
+- The forces!
+
+<img src="Figure5.jpg" alt="Image 1" height="400" width="600"> 
+
+Ref: S. Santos, V. Barcons, A. Verdaguer, J. Font, N. H. Thomson and M. Chiesa, Nanotechnology 22 (34), 345401 (2011).
+
+## The transfer function and forces
+
+- Conservative and dissipative forces
+
+<img src="Figure3.jpg" alt="Image 1" height="400" width="600"> 
+
+
+## The transfer function of the interacting system
+
+- The amplitude decay and phase response 
+
+<img src="Figure4.jpg" alt="Image 1" height="400" width="600"> 
+
+
+## The energy stored in the non-linear system
+
+
+<img src="NonLinearEnergy.jpg" alt="Image 1" height="450" width="500"> 
+
+
+## Experimental amplitude decay and phase response
+
+<img src="Figure6.jpg" alt="Image 1" height="400" width="600"> 
+
+Ref: S. Santos, K. R. Gadelrab, T. Souier, M. Stefancich and M. Chiesa, Nanoscale 4 (3), 792-800 (2012).
+
+
+## Non linearities and imaging 
+
+- Effects of set-point
+
+<img src="Figure7.jpg" alt="Image 1" height="400" width="350"> 
+
+Ref: S. Santos, V. Barcons, J. Font and N. H. Thomson, Nanotechnology 21 (22), 225710 (2010).
+
+## Non linearities and imaging 
+
+- Effects of free amplitude
+
+<img src="Figure8.jpg" alt="Image 1" height="400" width="600"> 
+
+
+## The concept of critical amplitude?
+
+- There is a region where bistability is observed!
+
+
+ <img src="CriticalAmplitude.jpg" alt="Image 1" height="80" width="300">
+ 
+ Ref: S. Santos, L. Guang, T. Souier, K. R. Gadelrab, M. Chiesa and N. H. Thomson, Review of Scientific Instruments 83, 043707-043717 (2012).
+ 
+
+## The concept of critical amplitude?
+
+- Simulations and dependencies on cantilever
+
+<img src="Figure9.jpg" alt="Image 1" height="500" width="450"> 
+
+
+## The concept of critical amplitude?
+
+- Simulations and dependencies on sample properties
+
+
+<img src="Figure10.jpg" alt="Image 1" height="400" width="680"> 
+ 
+
+----
+
+- Project 4:
+
+Noise and the interacting, i.e. constrained, system. 
+
+Find it [here](https://github.com/AdvancedForcesGroup/Projects4)
+
+There is some ["homework"](https://github.com/AdvancedForcesGroup/Projects4/blob/master/Homework_Project4.Rmd)
+
+and simple explanation [here](https://github.com/AdvancedForcesGroup/Projects4/blob/master/Project4.pdf)
+
+
+----
+
+- Questions?
+
